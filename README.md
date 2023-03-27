@@ -10,7 +10,7 @@ Conteúdo
   
   * <a href="https://github.com/cycerow/I2A2_AI_industry/blob/main/Desafio_2_IAn%C3%A1lise_de_anomalias_em_sistema_de_bombeamento.ipynb">Desafio 2 - Análise de anomalias em sistema de bombeamento</a> - Análise exploratória e estudo de machine learning em sistema confiabilidade de sistema de bombeamento de água
   
-  * <a href="https://www.kaggle.com/learn/data-cleaning">Desafio 3 - Curso Kaggle: Data Cleaning</a>
+  * <a href="[https://www.kaggle.com/learn/data-cleaning](https://github.com/cycerow/I2A2_AI_industry/blob/main/Desafio_3_Curso_Data_Cleaning.ipynb)">Desafio 3 - Curso Kaggle: Data Cleaning</a>
       * 
       *
 
